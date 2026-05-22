@@ -1,4 +1,4 @@
-Image Optimizer
+Image Optimizer Pro
 
 A smart batch image compression tool.
 
